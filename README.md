@@ -1,3 +1,5 @@
+Team: Kyle Hoekstra
+
 Added a new ambient sound effect for lightning
 Added a new basic particle effect to the ghost prefab to give them particles they emit
 
